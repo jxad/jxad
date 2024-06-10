@@ -17,6 +17,9 @@ Some of the available features for holders and members are:
 Mida Sniper is a software that speeds up the process of buying NFTs from marketplaces, you set which collection you want to buy from and the price cap.  
 The sniper monitors real-time on-chain data and automatically sends buy transactions.  
 
+### 💥 [Spark Node](https://x.com/spark_node)
+Spark provides NFT-based access to specialized multichain RPCs.
+
 # 💻 Dev skills 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,py,ts,go,cs,dotnet,tailwind,nodejs,fastapi,docker)](https://skillicons.dev)
 
@@ -24,7 +27,11 @@ The sniper monitors real-time on-chain data and automatically sends buy transact
 ### 🏛️ Mida
 https://twitter.com/Mida_DAO  
 https://discord.com/mida-dao  
-https://www.mida-dao.xyz/  
+https://www.mida-dao.xyz/
+### 💥 Spark Node
+https://discord.gg/sparknode  
+https://x.com/spark_node  
+https://sparknode.midalabs.xyz/  
 ### 📖 Resumee (TODO)
 https://www.alessiocavallo.me/
 ### #️⃣ Socials
