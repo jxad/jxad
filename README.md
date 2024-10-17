@@ -37,7 +37,7 @@ Mida Sniper is a tool that automates purchasing NFTs from marketplaces. It allow
 
 ### 🐍 Medusa
 - [Website](https://www.medusauth.xyz/)
-- [Twitter]([https://x.com/spark_node](https://x.com/medusa_Realm/))
+- [Twitter](https://x.com/medusa_Realm/)
 - [Discord](https://discord.gg/medusa-realm)
 
 ### 📖 Resume (TODO)
