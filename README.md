@@ -1,47 +1,53 @@
-# 👋 About Me
-Hello, I'm Alessio, a full-stack developer from Italy. 🇮🇹  
-I work full-time at a company specializing in localization and logistics management services. 🚚  
-In my free time, I'm a [Solana](https://solana.com/) maxi, building no-stop [Mida](https://mida-dao.xyz/).
+# 👋 Hi, I'm Alessio
 
-# 🔨 Projects
-Below are some of the projects I'm actively building and maintaining.
+I’m a **Full-Stack Developer** and **Technical Co-Founder** of [Medusa](https://www.medusauth.xyz/), [Spark Node](https://sparknode.midalabs.xyz/), and [Mida](https://mida-dao.xyz/). I specialize in building high-performance, scalable software solutions primarily focusing on projects built on the **Solana blockchain**.
 
-### 🐍 [Medusa](https://www.medusauth.xyz/)
-Medusa is a multichain token gating service, developed to ensure real-time gated access to all web3 communities.
+---
 
-### 💥 [Spark Node](https://x.com/spark_node)
-Spark Node provides NFT-based access to specialized multichain RPCs, enhancing the functionality and performance of developers and users.
+## 🚀 Projects
 
-### 🏛️ [The Temple](https://www.temple.mida-dao.xyz/)
-The Temple is the central hub of Mida, a web3 platform integrated with [Discord](https://discord.com/) and [Phantom](https://phantom.app/). Key features for members and holders include:
-- [Raffles](https://www.temple.mida-dao.xyz/raffles)
-- [Staking](https://www.temple.mida-dao.xyz/staking-v2)
-- [Coinflip](https://www.temple.mida-dao.xyz/coinflip)
+### 🐍 **Medusa**
+The fastest token-based authentication tool on Solana.
+- Medusa is a software platform designed for web3 communities that authenticate and authorize users based on their token and NFT holdings.
+- It offers **real-time updates** on users' holdings, enabling seamless application integration.
 
-### 🎯 [Mida Sniper](https://sniper-docs.midalabs.xyz/)
-Mida Sniper is a tool that automates purchasing NFTs from marketplaces. It allows users to set a collection and price cap, monitoring real-time on-chain data to execute buy transactions automatically.
-
-# 💻 Development Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,py,ts,go,cs,dotnet,tailwind,nodejs,fastapi,docker)](https://skillicons.dev)
-
-# 🔗 Useful Links
-### 🏛️ Mida
-- [Website](https://mida-dao.xyz/)
-- [Twitter](https://twitter.com/Mida_DAO)
-- [Discord](https://discord.com/mida-dao)
-
-### 💥 Spark Node
-- [Website](https://sparknode.midalabs.xyz/)
-- [Twitter](https://x.com/spark_node)
-- [Discord](https://discord.gg/sparknode)
-
-### 🐍 Medusa
+**Links:**
 - [Website](https://www.medusauth.xyz/)
 - [Twitter](https://x.com/medusa_Realm/)
 - [Discord](https://discord.gg/medusa-realm)
 
-### 📖 Resume (TODO)
-- [Alessio Cavallo](https://www.alessiocavallo.me/)
+---
 
-### #️⃣ Socials
+### 💥 **Spark Node**
+A high-throughput, multi-chain RPC node with support for Solana, Bitcoin, and Ethereum.
+- Spark Node delivers high-performance low latency RPC calls, achieving up to **2000 RPS** per user.
+
+**Links:**
+- [Website](https://sparknode.midalabs.xyz/)
+- [Twitter](https://x.com/spark_node)
+- [Discord](https://discord.gg/sparknode)
+
+---
+
+### 🏛️ **Mida**
+Mida is a Solana NFT community built to connect individuals passionate about Solana and web3.
+- Offers tools and channels dedicated to crypto enthusiasts, networking opportunities, and more.
+- Features include:
+  - **Raffles platform** with ticket purchases in Solana and Mida Coin.
+  - **Non-custodial NFT staking** for Mida NFTs directly on-chain.
+  - **Customizable NFT sniper** for automated purchases on secondary marketplaces.
+
+**Links:**
+- [Website](https://mida-dao.xyz/)
+- [Twitter](https://twitter.com/Mida_DAO)
+- [Discord](https://discord.com/mida-dao)
+
+---
+
+## 📖 Resume
+[Coming soon](https://www.alessiocavallo.me/)
+
+---
+
+## 🌐 Socials
 - [Twitter](https://twitter.com/jxadd)
