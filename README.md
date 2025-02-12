@@ -44,7 +44,7 @@ Mida is a Solana NFT community built to connect individuals passionate about Sol
 
 ---
 
-## 📖 Resume
+## 📖 CV
 [Coming soon](https://www.alessiocavallo.me/)
 
 ---
